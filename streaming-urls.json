@@ -1,4 +1,4 @@
 [
-  "Samonline TV": "http://172.16.29.28/",
-  "Youtube": "https://www.youtube.com/"
+  { "name": "Samonline TV", "url": "http://172.16.29.28/" },
+  { "name": "Youtube", "url": "https://www.youtube.com/" }
 ]
